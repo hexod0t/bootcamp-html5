@@ -1,0 +1,13 @@
+/**
+Main Style
+**/
+div {
+    background-color: skyblue;
+    padding: 40px;
+}
+#black-container {
+    background: black;
+}
+.text-white {
+    color: white;
+}
